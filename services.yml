@@ -1,0 +1,7 @@
+domain: localhost
+email: john@doe.com
+services:
+  - subdomain: grafana
+    host: grafana
+    port: 3000
+

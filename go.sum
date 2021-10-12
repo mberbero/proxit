@@ -1,6 +1,6 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/caddyserver/certmagic v0.15.0 h1:UZBNGcr/3wWLP+3k//rfrsrMWAa7J0u7MBnhLd3lZa0=
-github.com/caddyserver/certmagic v0.15.0/go.mod h1:/0VQ5og2Jxa5yBQ8eT80wWS7fi/DgNy1uXeXRUJ1Wj0=
+github.com/caddyserver/certmagic v0.15.1 h1:OAS245AZWQ1n2BD2gSBJPnKu3COTi2HNKj/6Td8aUQg=
+github.com/caddyserver/certmagic v0.15.1/go.mod h1:/0VQ5og2Jxa5yBQ8eT80wWS7fi/DgNy1uXeXRUJ1Wj0=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
